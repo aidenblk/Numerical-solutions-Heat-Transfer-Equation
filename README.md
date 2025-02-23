@@ -15,11 +15,8 @@ The project demonstrates numerical stability, computational efficiency, and inte
  **Animated heatmap for 2D heat diffusion**  
  **Structured modular design for extensibility**  
 
-##Heat Equation
+## Heat Equation
 ![Heat Equation](https://latex.codecogs.com/png.latex?\frac{\partial%20u}{\partial%20t}=%20\alpha%20\frac{\partial^2%20u}{\partial%20x^2})
-
-
-![Heat Equation](https://latex.codecogs.com/png.latex?\frac{\partial u}{\partial t} = \alpha \frac{\partial^2 u}{\partial x^2})
 
 
 
